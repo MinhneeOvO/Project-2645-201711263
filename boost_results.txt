@@ -1,0 +1,2 @@
+BOOST, Vin_min=12.000, Vin_max=18.000, Vout=48.000, Pout=120.000, f_sw=50000, L=6.206897e-05, C=3.906250e-05, R_load=19.200, Iout=2.500, Iin=10.000, mode=CCM
+BOOST, Vin_min=80.000, Vin_max=90.000, Vout=160.000, Pout=800.000, f_sw=100000, L=2.000000e-03, C=7.812500e-06, R_load=32.000, Iout=5.000, Iin=10.000, mode=CCM

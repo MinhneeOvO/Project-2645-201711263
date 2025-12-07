@@ -1,0 +1,5 @@
+BUCK, Vin_min=50.000, Vin_max=60.000, Vout=24.000, Pout=800.000, f_sw=100000, L=2.592000e-05, C=1.736111e-05, R_load=0.720, Iout=33.333, mode=CCM
+BUCK, Vin_min=80.000, Vin_max=90.000, Vout=40.000, Pout=800.000, f_sw=100000, L=6.250000e-05, C=6.250000e-07, R_load=2.000, Iout=20.000, mode=CCM
+BUCK, Vin_min=80.000, Vin_max=90.000, Vout=40.000, Pout=900.000, f_sw=100000, L=5.555556e-04, C=7.031250e-07, R_load=1.778, Iout=22.500, mode=CCM
+BUCK, Vin_min=80.000, Vin_max=90.000, Vout=40.000, Pout=1000.000, f_sw=100000, L=5.000000e-04, C=7.812500e-07, R_load=1.600, Iout=25.000, mode=CCM
+BUCK, Vin_min=80.000, Vin_max=90.000, Vout=40.000, Pout=800.000, f_sw=100000, L=6.250000e-04, C=6.250000e-07, R_load=2.000, Iout=20.000, mode=CCM

@@ -1,0 +1,2 @@
+CUK, Vin_min=10.000, Vin_max=15.000, |Vout|=12.000, Pout=60.000, f_sw=100000, L1=4.545455e-05, L2=5.454545e-05, Co=5.208333e-06, Cn=4.545455e-05, IL1_avg=6.000, IL2_avg=5.000, delta IL1=1.200, delta IL2=1.000, IL_peak=6.600, ILB=0.600, mode=CCM
+CUK, Vin_min=80.000, Vin_max=90.000, |Vout|=8000.000, Pout=9000.000, f_sw=6969, L1=5.051445e-03, L2=5.051445e-01, Co=2.522331e-09, Cn=9.989430e-07, IL1_avg=112.500, IL2_avg=1.125, delta IL1=2.250, delta IL2=0.022, IL_peak=113.625, ILB=1.125, mode=CCM
